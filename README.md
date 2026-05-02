@@ -13,8 +13,8 @@ I am a Computer Science student and Security Researcher focused on building AI-p
 - **ArchSec:** Security assessment automation.
 
 ### 📫 Reach Me
-- [LinkedIn](your-linkedin-link)
-- [Portfolio/Email](your-email-link)
+- [LinkedIn](linkedin.com/in/donal-jojo-619946288)
+- [Portfolio/Email](donaljojo123@gmail.com)
 
 <!--
 **donaljojoofficial/donaljojoofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
