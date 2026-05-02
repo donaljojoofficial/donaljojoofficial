@@ -21,26 +21,12 @@
 
 ## 👨‍💻 About Me
 
-```python
-class DonalJojo:
-    def __init__(self):
-        self.name        = "Donal Jojo"
-        self.location    = "Idukki, Kerala, India 🇮🇳"
-        self.education   = "B.Sc. Computer Science — CGPA: 7.93 (IHRD, Thodupuzha)"
-        self.interests   = [
-            "Full-Stack Development 🌐",
-            "Cybersecurity & Penetration Testing 🔐",
-            "AI / LLM Integration 🤖",
-            "QA & Software Testing 🧪",
-        ]
-        self.currently   = "Open to opportunities in Dev, QA, or Security roles"
-        self.fun_fact    = "I test systems for fun — and sometimes find bugs 🐛"
+👋 Hi! I'm Donal Jojo, a Computer Science graduate from Kerala, India, passionate about building secure and intelligent systems.
+📍 LocationIdukki, Kerala, India 🇮🇳🎓 EducationB.Sc. Computer Science — CGPA: 7.93 (IHRD, Thodupuzha)💼 CurrentlyOpen to opportunities in Development, QA, or Security roles💬 Ask me aboutWeb security, AI integration, testing & debugging⚡ Fun factI test systems for fun — and sometimes find bugs 🐛
+What I'm into:
+🌐  Full-Stack Development   |   🔐 Cybersecurity & Penetration Testing   |   🤖 AI / LLM Integration   |   🧪 QA & Software Testing
 
-    def say_hi(self):
-        print("Thanks for stopping by! Let's build something secure. 🚀")
-```
-
----
+"Thanks for stopping by! Let's build something secure together. 🚀"
 
 ## 🛠️ Tech Stack
 
