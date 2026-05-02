@@ -3,7 +3,7 @@
 I am a Computer Science student and Security Researcher focused on building AI-powered tools for exploit detection and system validation.
 
 ### 🛠 Tech Stack
-- **Languages:** Python, PHP, JavaScript, LaTeX
+- **Languages:** Python, PHP, JavaScript
 - **Frameworks:** Django, Laravel, Symfony
 - **Tools:** Kali Linux, Metasploit, Gemini API, GitHub Actions
 
