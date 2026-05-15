@@ -24,7 +24,7 @@
 👋 Hi! I'm Donal Jojo, a Computer Science graduate from Kerala, India, passionate about building secure and intelligent systems.
 📍 LocationIdukki, Kerala, India 🇮🇳🎓 EducationB.Sc. Computer Science — CGPA: 7.93 (IHRD, Thodupuzha)💼 CurrentlyOpen to opportunities in Development, QA, or Security roles💬 Ask me aboutWeb security, AI integration, testing & debugging⚡ Fun factI test systems for fun — and sometimes find bugs 🐛
 What I'm into:
-🌐  Full-Stack Development   |   🔐 Cybersecurity & Penetration Testing   |   🤖 AI / LLM Integration   |   🧪 QA & Software Testing
+🌐  Full-Stack Development   |   🔐 Cybersecurity & Penetration Testing   |   🤖 AI / LLM Integration   |   🧪 QA & Software Testing
 
 "Thanks for stopping by! Let's build something secure together. 🚀"
 
@@ -37,6 +37,7 @@ What I'm into:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -47,6 +48,8 @@ What I'm into:
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Symfony](https://img.shields.io/badge/Symfony-000000?style=for-the-badge&logo=symfony&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white)
 
 **Databases**
 
@@ -59,6 +62,12 @@ What I'm into:
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
 ![Gemini API](https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=google&logoColor=white)
+
+**QA & Testing**
+
+![Manual Testing](https://img.shields.io/badge/Manual_Testing-FF6B6B?style=for-the-badge&logo=testinglibrary&logoColor=white)
+![Test Case Design](https://img.shields.io/badge/Test_Case_Design-00B4D8?style=for-the-badge&logo=checkmarx&logoColor=white)
+![Bug Reporting](https://img.shields.io/badge/Bug_Reporting-F4A261?style=for-the-badge&logo=bugsnag&logoColor=white)
 
 **DevOps & Tools**
 
@@ -81,6 +90,8 @@ What I'm into:
 | 🛡️ **[ArchSec](https://github.com/Donaljojoofficial/ArchSec)** | AI-powered security assessment platform with hybrid rule-based + LLM scoring engine, automated PDF reporting, and CI/CD integration | Python · Django · PostgreSQL · Gemini API |
 | 🔍 **[XploitAI](https://github.com/Donaljojoofficial/XploitAI)** | Multi-phase AI-integrated pentesting simulation framework with real-time monitoring dashboard and LLM-powered command analysis | Python · Django · SQLite · Gemini · Groq |
 | 🌐 **[IntruNex](https://github.com/Donaljojoofficial/IntruNex)** | Automated web vulnerability scanner detecting SQLi, XSS, and file inclusion flaws with structured reporting and vulnerability knowledge base | PHP · Symfony · MySQL |
+| 🍃 **[Elakka](https://github.com/Donaljojoofficial/Elakka)** | Offline-first farm management app for cardamom plantations — plot tracking, yield monitoring, treatment logs, inventory alerts, and weather correlation, built with a "Dark Forest" UI optimized for outdoor use | React Native · Expo · TypeScript · SQLite · Zustand |
+| 🧪 **[QA_DOCS](https://github.com/Donaljojoofficial/QA_DOCS)** | Structured QA documentation repository covering manual test cases, execution logs, bug reports, and screenshots across multiple projects — demonstrating real-world software testing practices | Markdown · Manual Testing · Test Case Design |
 | 📡 **IoT Alcohol Monitor** | Real-time hardware-software monitoring system with Arduino sensor integration, Python GUI, and live data visualization. Presented at IHRD Tharang 2K25 (National Level) | Arduino · Python · Tkinter |
 
 </div>
@@ -116,6 +127,7 @@ What I'm into:
 🔐  Deepening knowledge in web application security & penetration testing
 🤖  Exploring AI/LLM integration in security tooling
 🧪  Building QA skills — manual testing, edge case analysis, bug reporting
+📱  Mobile development with React Native & Expo
 🌐  Open to roles in: Development · QA / Testing · Cybersecurity
 ```
 
@@ -133,15 +145,4 @@ What I'm into:
 </div>
 <!--
 **donaljojoofficial/donaljojoofficial** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
